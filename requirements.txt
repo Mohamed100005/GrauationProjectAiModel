@@ -1,8 +1,7 @@
-flask==2.3.3
-torch>=2.2.0
-torchvision>=0.17.0
-Pillow==10.0.0
-python-dotenv==1.0.0
-flask-cors==4.0.0
-requests==2.31.0
+torch
+torchvision
+Pillow
+python-dotenv
+flask-cors
+requests
 streamlit
