@@ -1,7 +1,2 @@
-torch
-torchvision
-Pillow
-python-dotenv
-flask-cors
-requests
-streamlit
+flask
+gunicorn
